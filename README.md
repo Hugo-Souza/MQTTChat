@@ -4,7 +4,11 @@ This project contains a simple implementation of a mini chat using the paho-mqtt
 
 <div align ="center">
   
+<<<<<<< HEAD
 ![fig14](https://www.hivemq.com/img/blog/websockets_with_hivemq.png)
+=======
+![fig14](https://user-images.githubusercontent.com/39158108/181029210-2793885d-6e8c-4fc4-97a9-ce8b1d27c93d.png)
+>>>>>>> main
   
 </div>
 
