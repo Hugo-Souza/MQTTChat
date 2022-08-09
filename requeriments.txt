@@ -1,3 +1,4 @@
 graphlib >= 0.9.5
+graphlib-backport >= 1.0.3
 thread6 >= 0.2.0
 paho-mqtt >= 1.6.1
